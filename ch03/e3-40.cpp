@@ -15,7 +15,7 @@ int main()
     strcat(s3, " ");
     strcat(s3, s2);
 
-    cout << s3;
+    cout << s3 << endl;
 
     return 0;
 }
